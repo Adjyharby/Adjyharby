@@ -39,13 +39,7 @@
 <br>
 <br>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/Adjyharby/Adjyharby/main/adjy.gif" alt="Profile Picture" width="100" />
-    </td>
-  </tr>
-</table>
+   <img src="https://raw.githubusercontent.com/Adjyharby/Adjyharby/main/adjy.gif" alt="Profile Picture" width="100" />
 
 ### Programming
 
