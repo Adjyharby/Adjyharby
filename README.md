@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Adjyharby/Adjyharby/main/Moxia.png" alt="Profile Banner" width="100%" />
 </div>
 
-<h1 align="center">YO</h1>
+<h1 align="center">Oh, Hello there!</h1>
 
 <br>
 <br>
@@ -13,11 +13,19 @@
 <table align="center">
   <tr>
     <td >
-      <p>I'm a developer passionate about:</p>
-      <ul>
-        <li>🌟 Open source contributions</li>
-        <li>📚 Learning new technologies</li>
-        <li>🤝 Collaborating with amazing people</li>
+       <h2 align="center">My name is Adjourner harbringe</h2>
+<p align="center">You can call me Adjy for short</p>
+<br>
+      <p align="center">I'm a developer and an artist who likes to:</p>
+      <ul >
+        <li>🎮 Make Games</li>
+        <li>🕸️ Make Webpages, Sometimes...</li>
+        <li>🎨 Make Art</li>
+        <li>🖼️ Make Animations</li>
+        <li>📝 Write Poems and Stories</li>
+        <li>📚 Learn new things about tech, literature and arts</li>
+        <li>🤝 Collaborate with other people on various projects</li>
+        <li>🎭 And have fun, whether alone or with friends</li>
       </ul>
     </td>
    <td><img src="https://raw.githubusercontent.com/Adjyharby/Adjyharby/main/adjystanding.gif" alt="Profile Picture" width="250" /></td>
